@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1ab2354-579c-4c6f-aa46-3459601fefc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dist/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dist/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dist/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dist/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/css/2.653462cc.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/css/2.653462cc.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/css/main.2d653c6c.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/css/main.2d653c6c.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/js/2.dada4b15.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/js/2.dada4b15.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/js/main.e0b40a4a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/js/main.e0b40a4a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/js/runtime-main.d55cd90d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/js/runtime-main.d55cd90d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dist/media/logo.25bf045c.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +63,7 @@
       <updated>1569804195707</updated>
       <workItem from="1569804198224" duration="11026000" />
       <workItem from="1570007009392" duration="48191000" />
-      <workItem from="1570179203291" duration="1162000" />
+      <workItem from="1570179203291" duration="1706000" />
     </task>
     <servers />
   </component>
