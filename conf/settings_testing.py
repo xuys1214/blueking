@@ -23,7 +23,7 @@ DATABASES = {
         'NAME': 'ethan',
         'USER': 'ethan',                            # 你的数据库user
         'PASSWORD': 'ethan@2019',                        # 你的数据库password
-        'HOST': '172.50.22.76',                   		   # 数据库HOST
+        'HOST': '172.50.22.77',                   		   # 数据库HOST
         'PORT': '3306',                        # 默认3306
     },
 }
