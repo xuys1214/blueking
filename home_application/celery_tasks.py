@@ -101,7 +101,7 @@ def get_performs_task():
                     log_content_split = log_content.split('|')
                     print('log_content_split:', log_content_split)
                     # 写入数据库
-                    HostPerformsUsage.Object.create(
+                    HostPerformsUsage.objects.create(
                         ip=_data.ip,
                         mem_usage=log_content_split[1],
                         disk_usage=log_content_split[2],
