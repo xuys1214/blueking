@@ -107,10 +107,11 @@ def get_performs_task():
                         disk_usage=log_content_split[2],
                         cpu_usage=log_content_split[3],
                     )
-                    return True
+                    break
                 time.sleep(0.1)
                 res = client.job.get_job_instance_log(params)
-        return False
+
+    return True
 
 @periodic_task(run_every=crontab(minute='*/5', hour='*', day_of_week="*"))
 def get_performs_periodic():
